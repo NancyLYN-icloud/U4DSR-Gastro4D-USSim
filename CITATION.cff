@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: U4DSR-Gastro4D-USSim
+message: If you use this code or benchmark, please cite the accompanying paper.
+type: software
+authors:
+  - family-names: Liu
+    given-names: Yanan
+repository-code: https://github.com/NancyLYN-icloud/U4DSR-Gastro4D-USSim
+url: https://github.com/NancyLYN-icloud/U4DSR-Gastro4D-USSim
+abstract: >-
+  Code for morphology-prior-free 4D gastric ultrasound surface reconstruction
+  (U4DSR: PAOC + GBR) and the Gastro4D-USSim benchmark.
+keywords:
+  - freehand ultrasound
+  - 4D reconstruction
+  - gastric motility
+  - dynamic surface modeling
+license: BSD-3-Clause
+version: 1.0.0
+preferred-citation:
+  type: article
+  title: >-
+    Morphology-prior-free 4D dynamic gastric surface reconstruction from
+    freehand ultrasound
+  authors:
+    - family-names: Liu
+      given-names: Yanan
+  journal: Medical Image Analysis
+  year: 2026

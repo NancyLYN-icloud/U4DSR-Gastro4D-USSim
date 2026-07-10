@@ -1,0 +1,28 @@
+{
+  "benchmark": "Gastro4D-USSim",
+  "framework": "U4DSR",
+  "method": "GBR",
+  "frontend": "PAOC",
+  "scale": {
+    "instances": 281,
+    "morphology_strata": 4,
+    "observation_protocols": 4,
+    "evaluation_cases": 1124
+  },
+  "morphology_types": [
+    "horn-type",
+    "J-shaped",
+    "steerhorn",
+    "cascade"
+  ],
+  "protocols": [
+    "Clean",
+    "Sparse",
+    "PoseNoise",
+    "ImageNoise"
+  ],
+  "splits": {
+    "dev": 81,
+    "test": 200
+  }
+}
